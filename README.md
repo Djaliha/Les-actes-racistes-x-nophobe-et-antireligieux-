@@ -39,7 +39,7 @@ De la démarche de l’Etat s’inscrit dans une volonté de lutter contre “la
 
 <img src="https://www.vie-publique.fr/sites/default/files/styles/large_full/public/en_bref/image_principale/racisme_rapport_CNCDH_168231888_Drupal.jpg?itok=Mh7AuabR" alt="Motif d&#39;illustration représentant des visages de différentes couleurs de peau."/>![image](
 
-II) Les actes racistes, xénophobes et antireligieux : une situation préoccupante
+I) Les actes racistes, xénophobes et antireligieux : une situation préoccupante
  
 En France, les actes raciste, xénophobes ou antireligieux sont nombreux, ils représentent une situation alarmante.
 En 2021, ces délits ou crimes à caractères racistes, xénophobes ou antireligieux ont connu une forte hausse comparée aux années précédente tout en sachant qu’il y a le contexte de la crise sanitaire, qui pourrait être un facteur favorisant les actes de ce type, à prendre en compte dans l’analyse de l’année 2021. 
@@ -74,7 +74,7 @@ Les limites de la base de données
 <img src="https://www.vie-publique.fr/sites/default/files/styles/large_full/public/en_bref/image_principale/actes_racistes_xenophobes_bilan_2021_268468411_Drupal.jpg?itok=MTuCdTxA" alt="Montage de papier collé et froissé représentant deux profils, un blanc et un noir, avec entre deux du rouge pour illustrer le conflit."/>![image](https://user-images.githubusercontent.com/118763826/204670977-a0a9372b-d8da-4ac2-92de-f74dfa96ac71.png)
 
  
-III) La question de la diffusion des chiffres se heurtent à des limites conjoncturelle 
+II) La question de la diffusion des chiffres se heurtent à des limites conjoncturelle 
      
      https://www.ina.fr/ina-eclaire-actu/video/2610586001007/actes-antisemites/ 
  
