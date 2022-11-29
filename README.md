@@ -69,12 +69,12 @@ Donc une hausse du nombre de crimes ou délits à caractère raciste d’une ann
 
 
 
-Les limites de la base de données 
+II) Les limites de la base de données 
 
 <img src="https://www.vie-publique.fr/sites/default/files/styles/large_full/public/en_bref/image_principale/actes_racistes_xenophobes_bilan_2021_268468411_Drupal.jpg?itok=MTuCdTxA" alt="Montage de papier collé et froissé représentant deux profils, un blanc et un noir, avec entre deux du rouge pour illustrer le conflit."/>![image](https://user-images.githubusercontent.com/118763826/204670977-a0a9372b-d8da-4ac2-92de-f74dfa96ac71.png)
 
  
-II) La question de la diffusion des chiffres se heurtent à des limites conjoncturelle 
+ La question de la diffusion des chiffres se heurtent à des limites conjoncturelle 
      
      https://www.ina.fr/ina-eclaire-actu/video/2610586001007/actes-antisemites/ 
  
