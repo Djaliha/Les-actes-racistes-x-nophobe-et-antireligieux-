@@ -101,6 +101,17 @@ Si l’on observe les résultats de l’enquête du SSMSI, on remarque que la ma
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 Bibliographie : 
 
 Florennes, Isabelle. Mendes, Ludovic. “Les actes antireligieux en France”. Vie-publique.fr. https://www.vie-publique.fr/sites/default/files/rapport/pdf/284641.pdf 
