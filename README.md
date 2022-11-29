@@ -1,8 +1,6 @@
 # Les-actes-racistes-x-nophobe-et-antireligieux-
 
-Introduction : <img src="https://images.centrepresseaveyron.fr/api/v1/images/view/6364ae42876ce745220e76c7/large/image.jpg?v=1" alt="https://images.centrepresseaveyron.fr/api/v1/images/view/6364ae42876ce745220e76c7/large/image.jpg?v=1"/>![image](https://user-images.githubusercontent.com/118763826/204660394-050fc401-402b-4cdc-9da5-1af80e8fccdc.png)
-
-
+Introduction : <img src="https://images.centrepresseaveyron.fr/api/v1/images/view/6364ae42876ce745220e76c7/large/image.jpg?v=1" alt="https://images.centrepresseaveyron.fr/api/v1/images/view/6364ae42876ce745220e76c7/large/image.jpg?v=1"
 
 
 Un sujet d'actualité 
@@ -37,7 +35,7 @@ De la démarche de l’Etat s’inscrit dans une volonté de lutter contre “la
 
 
 
-<img src="https://www.vie-publique.fr/sites/default/files/styles/large_full/public/en_bref/image_principale/racisme_rapport_CNCDH_168231888_Drupal.jpg?itok=Mh7AuabR" alt="Motif d&#39;illustration représentant des visages de différentes couleurs de peau."/>![image](https://user-images.githubusercontent.com/118763826/204663045-67d6cc45-4cc3-4a15-8949-fa1122ab64db.png)
+<img src="https://www.vie-publique.fr/sites/default/files/styles/large_full/public/en_bref/image_principale/racisme_rapport_CNCDH_168231888_Drupal.jpg?itok=Mh7AuabR" alt="Motif d&#39;illustration représentant des visages de différentes couleurs de peau."/>![image](
 
 II) Les actes racistes, xénophobes et antireligieux : une situation préoccupante
  
@@ -50,7 +48,7 @@ En ce qui concerne les mises en cause, qui sont au nombre de 2 125, la grande ma
 En effet, les actes racistes et antireligieux sont des actes qui ont connu une recrudescence en 2021 comparée aux années précédentes. D’après le rapport il y aurait une hausse de plus de 15% de ces actes d’une année à l’autre. Ce qui est le plus édifiant est que ces actes ne représentent que le sommet de l'iceberg car pour une bonne partie  les victimes ne se rendent pas auprès des forces de l’ordre afin de porter plainte. En effet, seulement « une victime de menaces ou violences physiques racistes » sur quatre et une victime d’injures « racistes » sur vingt ont, en moyenne, déclarent avoir porté plainte au commissariat de police ou en brigade de gendarmerie » d’après une enquête sur la période 2013-2018 de Cadre de vie et sécurité.
 Autre fait qui pourrait être inquiétant est que malgré le métissage croissant en France et l'augmentation des campagnes antiracistes, les actes et les faits haineux se sont statistiquement multipliés. En réalité, cette augmentation ne traduit pas réellement une augmentation des actes RXA* mais décrit uniquement une hausse des dépôts de plaintes. 
 
- https://www.youtube.com/watch?v=lQknXJqjb6s
+ <iframe width="853" height="480" src="https://www.youtube.com/embed/lQknXJqjb6s" title="1961 : Les Français sont-ils racistes ? | Archive INA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 En France, dès 1881, la législation punit toute diffamation ou injures dans la presse incitant à la haine raciale ou religieuse. Mais c’est dans les années 1970 que les discussions autour d’un projet de loi contre le racisme ont pris forme, ce qui a donné lieu le premier juillet 1972 à un renforcement de cette loi de 1881. Elle élargit la répression en dehors du cadre de la presse et à toute les formes de discrimination envers la race, le sexe, l’origine, les handicapes, la religion, l’appartenance politique et la situation familiale. Toute personne ou entité commettant un acte discriminatoire en raison de la race, de l’origine ou de la religion peut se voir écoper d’une peine de prison ou d’une amende.
  
@@ -70,14 +68,12 @@ Donc une hausse du nombre de crimes ou délits à caractère raciste d’une ann
 
 
 Les limites de la base de données 
-<img src="https://www.vie-publique.fr/sites/default/files/styles/large_full/public/en_bref/image_principale/actes_racistes_xenophobes_bilan_2021_268468411_Drupal.jpg?itok=MTuCdTxA" alt="Montage de papier collé et froissé représentant deux profils, un blanc et un noir, avec entre deux du rouge pour illustrer le conflit."/>![image](https://user-images.githubusercontent.com/118763826/204665003-811e2872-6d14-46c3-b6d9-ccf9eb4f6b60.png)
+<img src="https://www.vie-publique.fr/sites/default/files/styles/large_full/public/en_bref/image_principale/actes_racistes_xenophobes_bilan_2021_268468411_Drupal.jpg?itok=MTuCdTxA" alt="Montage de papier collé et froissé représentant deux profils, un blanc et un noir, avec entre deux du rouge pour illustrer le conflit."
 
-
-A)La qestion de la diffusion des chiffres se heurent à des limites structurelle 
-https://www.ina.fr/ina-eclaire-actu/video/2610586001007/actes-antisemites/ 
+ 
 III) La question de la diffusion des chiffres se heurtent à des limites conjoncturelle 
-
-Une analyse limitée et sources d’interprétation multiple 
+     https://www.ina.fr/ina-eclaire-actu/video/2610586001007/actes-antisemites/ 
+ 
 
 De nombreux médias ont abordé cette étude du Service statistique ministériel de la sécurité intérieure (SSMSI) en se limitant à rappeler les données et leurs évolutions, sans offrir de réelle analyse. En effet, si on se limite à des articles provenant de grands journaux nationaux tels que Le Monde ou Le Point, on peut remarquer que ces derniers se contentent de reprendre la même dépêche AFP, sans apporter de réelle plus value comme par exemple l'interview des auteurs de l’enquête ou encore l'avis de spécialiste. On retrouve donc les grandes lignes de l’enquête comme détaillées dans le communiqué de presse du SSMSI transmis aux journalistes. Ce constat est le même concernant les chaînes d’informations en continu, les chiffres de cette étude sont relayés, mais quasiment pas analysés. 
 Cette situation est à mettre en parallèle avec celle du rapport public “les actes antireligieux en France”, sorti le mois de mars 2022, c'est-à-dire en même temps que l’enquête du SSMSI, et rédigé par l’ancienne députée Isabelle Florennes et l'actuel député Ludovic Mendes. Effectivement, on peut souligner que ce rapport suscite l’intérêt des médias notamment au vu des analyses et des débats ayant ce dernier comme sujet principal. De plus, il faut mettre en lumière le fait que de nombreuses interviews des auteurs de ce rapport ont été réalisées, parfois avant même sa sortie.  
@@ -93,3 +89,39 @@ Ainsi la concentration des médias auxquels fait actuellement face la France va 
 Le journalisme de données, une solution pour visualiser au mieux le problème 
 
 Si l’on observe les résultats de l’enquête du SSMSI, on remarque que la majorité des contraventions pour racisme, dressées en France, se concentre dans la partie Est du territoire France. Il est donc intéressant d’imaginer des solutions pour mieux quantifier ce problème et ainsi, offrir aux pouvoirs publics une vision plus claire du problème notamment d’un point de vue géographique. C’est dans ce cadre que le journalisme de données peut être un moyen, sur le long terme pour  mieux comprendre les raisons qui expliquent pourquoi la majorité des actes de discriminations se concentre dans l’Est du pays par exemple. Ce journalisme de données serait sûrement effectué par des médias locaux et régionaux, par des journalistes dont l’objectif serait de fournir une information objective et exhaustive, qui nous permettra d’attaquer le problème des actes racistes, xénophobes et anti religieux sous un angle plus pertinent qu’il ne l'ait aujourd'hui. 
+
+
+
+
+
+
+
+
+Bibliographie : 
+
+Florennes, Isabelle. Mendes, Ludovic. “Les actes antireligieux en France”. Vie-publique.fr. https://www.vie-publique.fr/sites/default/files/rapport/pdf/284641.pdf 
+
+RMC. (2022, 11 février). Le parti-pris : Actes antireligieux, la « montée de la haine » inquiète - 11/02 [Vidéo]. Dailymotion. https://www.dailymotion.com/video/x87td4x 
+
+CNEWS. (2021, 13 décembre). Charlotte d’Ornellas : « En France, les actes qui sont contre les religieux sont majoritairement contre les chrétiens et contre les églises » [Vidéo]. Dailymotion. https://www.dailymotion.com/video/x8695pk 
+
+Site du ministère de l’intérieur, communiqué de presse : https://www.interieur.gouv.fr/actualites/communiques/atteintes-a-caractere-raciste-xenophone-ou-antireligieux-en-2021-analyse-dun 
+Jean Luc Primon et al., « Mesurer le racisme ? L’apport des enquêtes quantitatives à la sociologie du racisme », Sociologie et sociétés: https://www.erudit.org/fr/revues/socsoc/2018-v50-n2-socsoc05087/1066811ar/
+
+Ce que dit la loi, egalité contre racisme :https://egalitecontreracisme.fr/ce-que-dit-la-loi
+
+Thomas Hochmann, « Du lustre après dix lustres : la loi de 1972 contre le racisme a cinquante ans », La Revue des droits de l’homme [En ligne], 21 | 2022, mis en ligne le 24 janvier 2022, consulté le 29 novembre 2022. URL : http://journals.openedition.org/revdh/14356 ; DOI : https://doi.org/10.4000/revdh.14356
+
+https://www.dilcrah.fr/le-plan-national-de-lutte-contre-le-racisme-et-lantisemitisme/
+Primon, Jean-Luc. « La perception des discriminations au filtre des enquêtes statistiques », Agora débats/jeunesses, vol. 57, no. 1, 2011, pp. 121-134.
+https://www.insee.fr/fr/information/2108548
+https://enseignants.lumni.fr/fiche-media/00000001162/le-racisme-en-france-au-debut-des-annees-70.html
+https://www.causecommune-larevue.fr/racisme_en_france_les_chiffres_et_la_realite
+Fassin, Éric. « 18. Statistiques raciales ou racistes ? Histoire et actualité d’une controverse française », Didier Fassin éd., Les nouvelles frontières de la société française. La Découverte, 2012, pp. 427-451.
+1961: Les français sont-ils racistes ? Ina : https://www.youtube.com/watch?v=lQknXJqjb6s
+
+ 
+
+
+
+
