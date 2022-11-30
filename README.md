@@ -1,7 +1,7 @@
 # Les actes racistes xénophobe et antireligieux
 
 ## Introduction :
-<img src="https://media.lesechos.com/api/v1/images/view/62a17fc5f756007fe3701f97/1280x720/0701733420418-web-tete.jpg" alt="En 2017, ils étaient 314 députés à former la nouvelle majorité d&#39;Emmanuel Macron à l&#39;Assemblée."/>![image](https://user-images.githubusercontent.com/118763826/204776501-1d234c70-b3b6-4954-a57f-639f2a7d319f.png)
+<img src="https://media.lesechos.com/api/v1/images/view/62a17fc5f756007fe3701f97/1280x720/0701733420418-web-tete.jpg" alt="En 2017, ils étaient 314 députés à former la nouvelle majorité d&#39;Emmanuel Macron à l&#39;Assemblée."/>![image]
 
 
 
