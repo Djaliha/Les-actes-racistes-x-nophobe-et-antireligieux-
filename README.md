@@ -76,7 +76,7 @@ Donc une hausse du nombre de crimes ou délits à caractère raciste d’une ann
  
    ## Une analyse limitée et source d'interprétation multiple 
      
- ([https://www.ina.fr/ina-eclaire-actu/video/2610586001007/actes-antisemites/ ])
+ [https://www.ina.fr/ina-eclaire-actu/video/2610586001007/actes-antisemites/ ]
  
 
 De nombreux médias ont abordé cette étude du Service statistique ministériel de la sécurité intérieure (SSMSI) en se limitant à rappeler les données et leurs évolutions, sans offrir de réelle analyse. En effet, si on se limite à des articles provenant de grands journaux nationaux tels que Le Monde ou Le Point, on peut remarquer que ces derniers se contentent de reprendre la même dépêche AFP, sans apporter de réelle plus value comme par exemple l'interview des auteurs de l’enquête ou encore l'avis de spécialiste. On retrouve donc les grandes lignes de l’enquête comme détaillées dans le communiqué de presse du SSMSI transmis aux journalistes. Ce constat est le même concernant les chaînes d’informations en continu, les chiffres de cette étude sont relayés, mais quasiment pas analysés. 
