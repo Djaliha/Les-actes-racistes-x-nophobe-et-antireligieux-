@@ -77,7 +77,7 @@ II) Les limites de la base de données
  
  La question de la diffusion des chiffres se heurtent à des limites conjoncturelle : 
  
-    Une analyse limitée et sources d'interprétation multiple 
+    Une analyse limitée et source d'interprétation multiple 
      
  https://www.ina.fr/ina-eclaire-actu/video/2610586001007/actes-antisemites/ 
  
