@@ -51,7 +51,7 @@ En ce qui concerne les mises en cause, qui sont au nombre de 2 125, la grande ma
 En effet, les actes racistes et antireligieux sont des actes qui ont connu une recrudescence en 2021 comparée aux années précédentes. D’après le rapport il y aurait une hausse de plus de 15% de ces actes d’une année à l’autre. Ce qui est le plus édifiant est que ces actes ne représentent que le sommet de l'iceberg car pour une bonne partie  les victimes ne se rendent pas auprès des forces de l’ordre afin de porter plainte. En effet, seulement « une victime de menaces ou violences physiques racistes » sur quatre et une victime d’injures « racistes » sur vingt ont, en moyenne, déclarent avoir porté plainte au commissariat de police ou en brigade de gendarmerie » d’après une enquête sur la période 2013-2018 de Cadre de vie et sécurité.
 Autre fait qui pourrait être inquiétant est que malgré le métissage croissant en France et l'augmentation des campagnes antiracistes, les actes et les faits haineux se sont statistiquement multipliés. En réalité, cette augmentation ne traduit pas réellement une augmentation des actes RXA* mais décrit uniquement une hausse des dépôts de plaintes. 
 
-https://www.youtube.com/watch?v=lQknXJqjb6s
+https://www.youtube.com/watch?v=lQknXJqjb6s / https://www.dailymotion.com/video/x87td4x?fbclid=IwAR092xCTmbtiERo383Pxv1sJiFmOyH_kwmOPWt_w7UTQlVdDs979Iqj0Dcw
  
 En France, dès 1881, la législation punit toute diffamation ou injures dans la presse incitant à la haine raciale ou religieuse. Mais c’est dans les années 1970 que les discussions autour d’un projet de loi contre le racisme ont pris forme, ce qui a donné lieu le premier juillet 1972 à un renforcement de cette loi de 1881. Elle élargit la répression en dehors du cadre de la presse et à toute les formes de discrimination envers la race, le sexe, l’origine, les handicapes, la religion, l’appartenance politique et la situation familiale. Toute personne ou entité commettant un acte discriminatoire en raison de la race, de l’origine ou de la religion peut se voir écoper d’une peine de prison ou d’une amende.
  
@@ -79,7 +79,7 @@ II) Les limites de la base de données
  
     Une analyse limitée et sources d'interprétation multiple 
      
-     https://www.ina.fr/ina-eclaire-actu/video/2610586001007/actes-antisemites/ 
+ https://www.ina.fr/ina-eclaire-actu/video/2610586001007/actes-antisemites/ 
  
 
 De nombreux médias ont abordé cette étude du Service statistique ministériel de la sécurité intérieure (SSMSI) en se limitant à rappeler les données et leurs évolutions, sans offrir de réelle analyse. En effet, si on se limite à des articles provenant de grands journaux nationaux tels que Le Monde ou Le Point, on peut remarquer que ces derniers se contentent de reprendre la même dépêche AFP, sans apporter de réelle plus value comme par exemple l'interview des auteurs de l’enquête ou encore l'avis de spécialiste. On retrouve donc les grandes lignes de l’enquête comme détaillées dans le communiqué de presse du SSMSI transmis aux journalistes. Ce constat est le même concernant les chaînes d’informations en continu, les chiffres de cette étude sont relayés, mais quasiment pas analysés. 
